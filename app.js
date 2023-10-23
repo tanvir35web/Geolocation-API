@@ -17,7 +17,6 @@ function showPosition(position){
     "<br>Heading: " + position.coords.heading +
     "<br>Speed: " + position.coords.speed + 
     "<br>Date/time: " + position.timestamp;
-
 }
 
 function showError(error) {
