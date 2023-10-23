@@ -21,10 +21,10 @@
 .container{
     background-color: rgba(0, 66, 53, 0.472);
     width: 850px;
-    height: 450px;
     border-radius: 15px;
     padding: 40px 40px;
     text-align: center;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.152);
 }
 
 button{
@@ -56,6 +56,6 @@ h1{
     letter-spacing: 2px;
     font-weight: 500;
     margin-bottom: 40px;
-    
+    line-height: 1.8;
 }
 
